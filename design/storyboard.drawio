@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="EVG2bWoDaLwrW7vUYK0c" name="Page-1">
+        <mxGraphModel dx="2553" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#FFFFFF;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="140" width="680" height="830" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;p style=&quot;line-height: 1.2&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Forza cars.&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=#FFFFFF;align=left;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="80" width="680" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="165" width="380" height="215" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font face=&quot;helvetica, arial, sans-serif&quot; color=&quot;#000000&quot; style=&quot;font-size: 55px&quot;&gt;*IMAGE*&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=22;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="230" width="250" height="120" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
